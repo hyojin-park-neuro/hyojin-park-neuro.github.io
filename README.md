@@ -1,3 +1,3 @@
 # Dr Hyojin Park's website
 
-Template forked from https://github.com/academicpages/academicpages.github.io based on [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+Used a template forked from the [academicpages template](https://github.com/academicpages/academicpages.github.io) which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
