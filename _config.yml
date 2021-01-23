@@ -152,7 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - assets/css/academicons.css
+  - assets/css/academicons.min.css
 keep_files:
   - .git
   - .svn
