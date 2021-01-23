@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*under construction* <br>
-Please see [this link](https://sites.google.com/view/hyojinpark/home)
+*Under construction* <br>
+Please see [this link.](https://sites.google.com/view/hyojinpark/home)
+
 
 [Dr Hyojin Park](https://www.birmingham.ac.uk/staff/profiles/psychology/park-hyojin.aspx) (Principal Investigator) is a [Birmingham Fellow](https://www.birmingham.ac.uk/strategic-framework/Research/fellows.aspx) at the [School of Psychology](https://www.birmingham.ac.uk/schools/psychology/index.aspx) and [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx) at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), Birmingham, UK.
 
