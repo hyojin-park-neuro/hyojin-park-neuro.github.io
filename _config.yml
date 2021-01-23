@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Hyojin Park | Neural oscillations in Speech"
+title                    : "Dr Hyojin Park | Neural Oscillations in Speech"
 title_separator          : "-"
 name                     : &name "Hyojin Park"
 description              : &description "Cognitive Neuroscientist"
@@ -84,17 +84,17 @@ author:
   avatar           : "profile.png"
   bio              : "Birmingham Fellow"
   location         : "Birmingham, UK"
-  employer         :
+  employer         : University of Birmingham
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Vyn8xRQAAAAJ&hl=en"
-  email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "h.park@bham.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Hyojin_Park" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/hyojin.park.1223"
   foursquare       :
   github           : "hyojin-park-neuro"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "HyojinParkNeuro"
   vine             :
   weibo            :
   xing             :
