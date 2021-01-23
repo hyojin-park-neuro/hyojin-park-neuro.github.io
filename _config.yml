@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyojin Park"
+title                    : "Dr Hyojin Park | Neural Oscillations in Speech"
 title_separator          : "-"
 name                     : &name "Hyojin Park"
 description              : &description "Cognitive Neuroscientist"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
