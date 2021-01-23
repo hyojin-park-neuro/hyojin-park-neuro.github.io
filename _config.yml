@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Hyojin Park | Neural Oscillations in Speech"
+title                    : "Hyojin Park"
 title_separator          : "-"
 name                     : &name "Hyojin Park"
 description              : &description "Cognitive Neuroscientist"
@@ -85,7 +85,7 @@ author:
   bio              : "Birmingham Fellow"
   location         : "Birmingham, UK"
   employer         : University of Birmingham
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Vyn8xRQAAAAJ&hl=en"
   email            : "h.park@bham.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Hyojin_Park" # example: "https://www.researchgate.net/profile/yourprofile"
