@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr Hyojin Park"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
