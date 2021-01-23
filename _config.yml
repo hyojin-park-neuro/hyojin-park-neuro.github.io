@@ -152,7 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - assets/css/collapse.css
+  - assets/css/academicons.css
 keep_files:
   - .git
   - .svn
