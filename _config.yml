@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Hyojin Park | Neural Oscillations in Speech"
+title                    : "Dr Hyojin Park's Research Group"
 title_separator          : "-"
 name                     : &name "Hyojin Park"
 description              : &description "Cognitive Neuroscientist"
