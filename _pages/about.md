@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+# Under construction
+
+[Dr Hyojin Park](https://www.birmingham.ac.uk/staff/profiles/psychology/park-hyojin.aspx) (Principal Investigator) is a [Birmingham Fellow](https://www.birmingham.ac.uk/strategic-framework/Research/fellows.aspx) at the [School of Psychology](https://www.birmingham.ac.uk/schools/psychology/index.aspx) and [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx) at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), Birmingham, UK.
+
+She completed a PhD on Cognitive Neuroscience at the Interdisciplinary Program in Cognitive Science, Seoul National University, Seoul, South Korea (PhD supervisor: Professor Dong Soo Lee, MD, PhD) and before that she completed her undergraduate degree in Psychology at the Kyungpook National University, Daegu, South Korea.
+Subsequently she worked as a Research Associate (postdoctoral researcher) in the lab of Professor [Joachim Gross](https://www.uni-muenster.de/OCCMuenster/members/joachim-gross.html) and Professor [Gregor Thut](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/) (supported by their Wellcome Trust Senior Investigator Award) at the School of Psychology|Institute of Neuroscience and Psychology|Centre for Cognitive Neuroimaging (CCNi) at the University of Glasgow, Glasgow, UK.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
