@@ -17,7 +17,7 @@ She completed a PhD on Cognitive Neuroscience at the Interdisciplinary Program i
 Subsequently she worked as a Research Associate (postdoctoral researcher) in the lab of Professor Joachim Gross and Professor Gregor Thut (supported by their Wellcome Trust Senior Investigator Award) at the School of Psychology, Institute of Neuroscience and Psychology, Centre for Cognitive Neuroimaging (CCNi) at the University of Glasgow, Glasgow, UK.
 
 
-# Research in the Group
+## Research in the Group
 The main goal of our research group is to understand neural oscillatory mechanism in speech processing - both auditory and visual - as well as their integration that leads to a unified perception.
 
 **Why Rhythms in Speech?** Speech consists of a hierarchy of components occurring on different timescales. For example, prosody or intonation occurs on a relatively long timescale-hundreds of milliseconds, syllables occur on around hundred millisecond, and short transients and phonemes last only tens of milliseconds. Similarly distinct neuronal populations fire rhythmically at different rates (brain oscillations), and different bands of oscillations are arranged in a hierarchy.
